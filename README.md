@@ -1,3 +1,9 @@
+This is a Disc Recommender application written in Python for my WGU Capstone Project.
+
+This application takes in a user input of a disc golf disc model and outputs 10 comparable discs using Cosine Similarity based on the discs flight numbers and disc type.
+
+The intial dataset for this project can be found at https://www.kaggle.com/datasets/jakestrasler/disc-golf-disc-flight-numbers-and-dimensions?resource=download
+
 User Guide
 1.	In your web browser go to https://mybinder.org/
 2.	Paste this URL https://github.com/J-Klimek/DiscRecommender in the box for ‘GitHub repository name or URL’
